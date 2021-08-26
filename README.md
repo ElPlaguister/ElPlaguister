@@ -2,14 +2,6 @@
 
 ![ElPlaguister: github stats](https://github-readme-stats.vercel.app/api?username=ElPlaguister&show_icons=true&theme=dracula)  
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kritias)](https://solved.ac/kritias)
-<!--Pytorch Icon-->
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>PyTorch</title><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z"/></svg>
-<!--Unity Icon-->
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Unity</title><path d="M24 9.533L21.374 0 11.57 2.555l-1.45 2.49-2.945-.022L0 12l7.176 6.978 2.943-.023 1.454 2.49 9.8 2.554L24 14.47 22.508 12 24 9.533zM10.356 5.445l7.499-1.874-4.304 7.251H4.94l5.416-5.377zm0 13.11L4.94 13.18h8.61l4.305 7.251-7.5-1.874zm9.598.696l-4.307-7.25 4.307-7.253L22.033 12l-2.08 7.25z"/></svg>
-<!--HTML Icon-->
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
-<!--CodeForce Icon-->
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Codeforces</title><path d="M4.5 7.5C5.328 7.5 6 8.172 6 9v10.5c0 .828-.672 1.5-1.5 1.5h-3C.673 21 0 20.328 0 19.5V9c0-.828.673-1.5 1.5-1.5h3zm9-4.5c.828 0 1.5.672 1.5 1.5v15c0 .828-.672 1.5-1.5 1.5h-3c-.827 0-1.5-.672-1.5-1.5v-15c0-.828.673-1.5 1.5-1.5h3zm9 7.5c.828 0 1.5.672 1.5 1.5v7.5c0 .828-.672 1.5-1.5 1.5h-3c-.828 0-1.5-.672-1.5-1.5V12c0-.828.672-1.5 1.5-1.5h3z"/></svg>
 <!--
 **ElPlaguister/ElPlaguister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
