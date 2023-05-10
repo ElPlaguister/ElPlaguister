@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Kritias%20%20&height=200&fontSize=100)
 
-## Kritias (Lee Seung-Min, 23, 🇰🇷)
+## Kritias (Lee Seung-Min, 22, 🇰🇷)
 
 ![ElPlaguister: github stats](https://github-readme-stats.vercel.app/api?username=ElPlaguister&show_icons=true&theme=dracula)  
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kritias)](https://solved.ac/kritias)
