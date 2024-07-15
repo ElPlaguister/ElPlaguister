@@ -7,7 +7,7 @@ I'm interested in NLP, Specifically Large Language Models for Dialogue System.
 [![CodeForces Profile](https://cf.leed.at?id=kritias)](https://codeforces.com/profile/kritias)
 
 ### Baekjoon Online Judge | Solved.ac  
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kritias)](https://solved.ac/kritias)  
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kritias)](https://solved.ac/profile/kritias)  
 ![ElPlaguister: github stats](https://github-readme-stats.vercel.app/api?username=ElPlaguister&show_icons=true&theme=dracula) 
 <!--
 **ElPlaguister/ElPlaguister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
