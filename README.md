@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Kritias%20%20&height=200&fontSize=100)
 
-## Kritias (Lee Seung-Min, 23, 🇰🇷)
+## Kritias (Lee Seung-Min, 24, 🇰🇷)
 I'm interested in NLP, Specifically Large Language Models for Dialogue System.  
 
 ### Codeforce  
